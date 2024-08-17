@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/1502289545/vector/technology-of-software-development-web-design-programming-concept-program-code-on-screen.jpg?s=1024x1024&w=is&k=20&c=myEIdF8JJ3M-T5KJZacnxNI7niMOedyI50VW3K74GA8=)](https://rishavchanda.io)
+[![MasterHead](https://media.istockphoto.com/id/1500238408/photo/program-code-development-icon-on-a-digital-lcd-display-with-reflection.jpg?s=2048x2048&w=is&k=20&c=YLG5Zt15gZknsG46idf3c2JrWBOrYQ_UXnnH3tWVjU8=)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shreya Kundu</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <!-- (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif") -->
