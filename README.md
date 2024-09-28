@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **My code has a sense of humor—sometimes it throws errors just to see if I'm paying attention.**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">-: Connect with me :-</h2>
 <p align="left">
 <a href="https://linkedin.com/in/shreya kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya kundu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100072433524139&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shreya kundu" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 <a href="https://www.codechef.com/users/1★cse14800121071" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="1★cse14800121071" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreya_kundu29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya_kundu29" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">-: Languages and Tools :-</h2>
 
 <!-- Frontend Skills Section -->
 <p align="left">
@@ -92,11 +92,15 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats :</h3>
+<h2 align="center">-: 📊 GitHub Stats :-</h2>
+
+<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyakund&layout=compact&theme=radical)
+
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyakund&show_icons=true&theme=radical) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyakund&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shreyakund&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <br>
