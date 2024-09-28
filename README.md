@@ -93,9 +93,15 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyakund&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyakund&layout=compact&theme=radical)
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyakund&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shreyakund&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br>
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Shreyakund&theme=gruvbox)
+
 
 
 
