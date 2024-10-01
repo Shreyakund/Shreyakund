@@ -15,6 +15,8 @@
 
 - 📄 **My Resume :** [https://drive.google.com/file/d/1eMZtPVV9EoumPvwrryq_q7l5z6DPBBXM/view?usp=drivesdk](https://drive.google.com/file/d/1eMZtPVV9EoumPvwrryq_q7l5z6DPBBXM/view?usp=drivesdk)
 
+- 📄 **My Certificates :** [https://drive.google.com/drive/folders/1CnLo6BdNTg-ZTVH13NvCBfBnaPB3ABGT](https://drive.google.com/drive/folders/1CnLo6BdNTg-ZTVH13NvCBfBnaPB3ABGT) 
+
 - ⚡ Fun fact **My code has a sense of humor—sometimes it throws errors just to see if I'm paying attention.**
 
 <h2 align="center">-: Connect with me :-</h2>
