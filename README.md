@@ -109,6 +109,8 @@
 
 <br>
 
+<h2 align="center">-: 🏆 GitHub Trophies :-</h2>
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Shreyakund&theme=gruvbox)
 
 
