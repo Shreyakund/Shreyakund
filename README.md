@@ -13,7 +13,7 @@
 
 - **Check out my portfolio website:** https://shreyakundu1.netlify.app
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eMZtPVV9EoumPvwrryq_q7l5z6DPBBXM/view?usp=drivesdk](https://drive.google.com/file/d/1eMZtPVV9EoumPvwrryq_q7l5z6DPBBXM/view?usp=drivesdk)
+- 📄 **My Resume :** [https://drive.google.com/file/d/1eMZtPVV9EoumPvwrryq_q7l5z6DPBBXM/view?usp=drivesdk](https://drive.google.com/file/d/1eMZtPVV9EoumPvwrryq_q7l5z6DPBBXM/view?usp=drivesdk)
 
 - ⚡ Fun fact **My code has a sense of humor—sometimes it throws errors just to see if I'm paying attention.**
 
