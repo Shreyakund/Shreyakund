@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shreyak4821@gmail.com**
 
-- **Check out my portfolio website:** https://shreyakundu1.netlify.app
+- **Check out my portfolio website:** https://shreya5.netlify.app/
 
 - 📄 **My Resume :** [https://drive.google.com/file/d/1eMZtPVV9EoumPvwrryq_q7l5z6DPBBXM/view?usp=drivesdk](https://drive.google.com/file/d/1eMZtPVV9EoumPvwrryq_q7l5z6DPBBXM/view?usp=drivesdk)
 
